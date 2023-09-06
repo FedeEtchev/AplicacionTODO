@@ -31,5 +31,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/FedeEtchev/AplicacionTODO"
+  "homepage": "https://github.com/FedeEtchev/AplicacionTODO",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }
